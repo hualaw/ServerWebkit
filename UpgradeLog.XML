@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServerWebkit">
+</Property><Property Name="Solution File" Value="D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\ServerWebkit.sln">
+</Property><Property Name="Date" Value="2012年12月27日">
+</Property><Property Name="Time" Value="15:22">
+</Property></Properties><Event ErrorLevel="0" Project="SWTestServer" Source="test\SWTestServer\SWTestServer.vcproj" Description="Converting project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\test\SWTestServer\SWTestServer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SWTestServer" Source="test\SWTestServer\SWTestServer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SWTestServer" Source="test\SWTestServer\SWTestServer.vcproj" Description="Done converting to new project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\test\SWTestServer\SWTestServer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SWTestServer" Source="test\SWTestServer\SWTestServer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SWTestClient" Source="test\SWTestClient\SWTestClient.vcproj" Description="Converting project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\test\SWTestClient\SWTestClient.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SWTestClient" Source="test\SWTestClient\SWTestClient.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SWTestClient" Source="test\SWTestClient\SWTestClient.vcproj" Description="Done converting to new project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\test\SWTestClient\SWTestClient.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SWTestClient" Source="test\SWTestClient\SWTestClient.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Core" Source="wrapper\Core\Core.vcproj" Description="Converting project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\wrapper\Core\Core.vcproj'.">
+</Event><Event ErrorLevel="2" Project="Core" Source="wrapper\Core\Core.vcproj" Description="File 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\wrapper\Core\Core.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="Core" Source="wrapper\Core\Core.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="Core" Source="wrapper\Core\Core.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="Shell" Source="wrapper\Shell\Shell.vcproj" Description="Converting project file 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\wrapper\Shell\Shell.vcproj'.">
+</Event><Event ErrorLevel="2" Project="Shell" Source="wrapper\Shell\Shell.vcproj" Description="File 'D:\360code\WirelessBrowser\Webkit\trunk2.0\ServerWebkit\wrapper\Shell\Shell.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="Shell" Source="wrapper\Shell\Shell.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="Shell" Source="wrapper\Shell\Shell.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ServerWebkit.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServerWebkit.sln" Description="Converted">
+</Event></UpgradeLog>

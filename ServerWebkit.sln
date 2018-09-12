@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWTestServer", "test\SWTestServer\SWTestServer.vcxproj", "{305FC063-4F0E-48FC-8E9B-DE65BA1A84D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWTestClient", "test\SWTestClient\SWTestClient.vcxproj", "{2CFCD768-FF96-4C88-8B14-4F85E5353748}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WrapperCore", "wrapper\Core\Core.vcproj", "{E30015C2-DC20-47FE-A6B2-BEBAB4FF9397}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerShell", "wrapper\Shell\Shell.vcproj", "{62147FB7-EBC2-47C5-B516-204E7E3CDD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305FC063-4F0E-48FC-8E9B-DE65BA1A84D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{305FC063-4F0E-48FC-8E9B-DE65BA1A84D3}.Debug|Win32.Build.0 = Debug|Win32
+		{305FC063-4F0E-48FC-8E9B-DE65BA1A84D3}.Release|Win32.ActiveCfg = Release|Win32
+		{305FC063-4F0E-48FC-8E9B-DE65BA1A84D3}.Release|Win32.Build.0 = Release|Win32
+		{2CFCD768-FF96-4C88-8B14-4F85E5353748}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CFCD768-FF96-4C88-8B14-4F85E5353748}.Debug|Win32.Build.0 = Debug|Win32
+		{2CFCD768-FF96-4C88-8B14-4F85E5353748}.Release|Win32.ActiveCfg = Release|Win32
+		{2CFCD768-FF96-4C88-8B14-4F85E5353748}.Release|Win32.Build.0 = Release|Win32
+		{E30015C2-DC20-47FE-A6B2-BEBAB4FF9397}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E30015C2-DC20-47FE-A6B2-BEBAB4FF9397}.Debug|Win32.Build.0 = Debug|Win32
+		{E30015C2-DC20-47FE-A6B2-BEBAB4FF9397}.Release|Win32.ActiveCfg = Release|Win32
+		{E30015C2-DC20-47FE-A6B2-BEBAB4FF9397}.Release|Win32.Build.0 = Release|Win32
+		{62147FB7-EBC2-47C5-B516-204E7E3CDD1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62147FB7-EBC2-47C5-B516-204E7E3CDD1B}.Debug|Win32.Build.0 = Debug|Win32
+		{62147FB7-EBC2-47C5-B516-204E7E3CDD1B}.Release|Win32.ActiveCfg = Release|Win32
+		{62147FB7-EBC2-47C5-B516-204E7E3CDD1B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
